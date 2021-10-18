@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartStaffSolutions</string>
+    <string name="generate">Generate</string>
+    <string name="size">Size of pixel:</string>
+    <string name="w">weight</string>
+    <string name="x">x</string>
+    <string name="h">height</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="speed">Speed:</string>
+</resources>
